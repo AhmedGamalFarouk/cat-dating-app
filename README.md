@@ -1,16 +1,23 @@
-# cat_app
+# Cat Datting
 
-A new Flutter project.
+A simple Flutter demo app showcasing UI and animations.
+
+## Features
+
+- Displays random cat images from the [cataas.com API](https://cataas.com/).
+- Swipeable cat cards with animations.
+- API calling for cat images.
+- Error handling for image loading failures.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app:
 
-A few resources to get you started if this is your first Flutter project:
+1.  Clone this repository.
+2.  Ensure you have the Flutter SDK installed.
+3.  Run `flutter pub get` to install dependencies.
+4.  Run `flutter run` to start the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Cat images are provided by the [cataas.com API](https://cataas.com/).
