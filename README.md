@@ -21,3 +21,6 @@ To run this app:
 ## Credits
 
 - Cat images are provided by the [cataas.com API](https://cataas.com/).
+
+## Demo
+[untitled.webm](https://github.com/user-attachments/assets/588c27ad-b5ba-4f23-8900-bb2cdfec3970)
